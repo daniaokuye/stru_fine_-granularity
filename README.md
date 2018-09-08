@@ -2,4 +2,4 @@
 
 
 ## code for fix length covolution
-url[https://github.com/CodePlay2016/FixLengthKernelConvolution/tree/master]
+[url](https://github.com/CodePlay2016/FixLengthKernelConvolution/tree/master)
